@@ -1,0 +1,2 @@
+# Optional: only needed for the QR Code button on the Activities page
+qrcode[pil]

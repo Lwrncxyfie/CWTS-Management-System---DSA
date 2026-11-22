@@ -1,0 +1,76 @@
+{
+  "users": {
+    "lawrence": {
+      "username": "lawrence",
+      "name": "Lawrence",
+      "email": "lawrence@gmail.com",
+      "section": "BSIT 2-1",
+      "role": "student",
+      "password": "50e59cdb55cc649f$8b8d064107c196e0e42a57a089cecb3ab2b4a0c3de7cd80f3d158faa76d29b44"
+    },
+    "kei": {
+      "username": "kei",
+      "name": "Kei",
+      "email": "kei@gmail.com",
+      "section": "BSIT 2-1",
+      "role": "instructor",
+      "password": "e901803cdb117008$6201bfeb679adf554185a5d8d6de9219a607db425a35ecd6701716626b469d5f"
+    }
+  },
+  "admins": {},
+  "hours": {
+    "lawrence": 0.009467934166666667
+  },
+  "counters": {
+    "anc": 1,
+    "act": 1,
+    "att": 1
+  },
+  "attendance": [
+    {
+      "id": 1,
+      "student": "lawrence",
+      "activity_id": "1",
+      "time_in": "2026-11-23T03:25:35.561233",
+      "time_out": "2026-11-23T03:26:09.645796",
+      "hours": 0.009467934166666667
+    }
+  ],
+  "reports": [],
+  "documents": [],
+  "activities": [
+    {
+      "title": "Lighting of the Belen",
+      "goal": "Programme Proper",
+      "location": "PUP Calauan",
+      "start": "2026-12-10T05:00",
+      "end": "2026-12-10T08:00",
+      "area_limit": 150.0,
+      "max_participants": 200,
+      "id": 1,
+      "created_by": "kei"
+    }
+  ],
+  "inbox": [],
+  "feedback": [
+    {
+      "from": "lawrence",
+      "role": "student",
+      "kind": "Feedback",
+      "message": "Hello",
+      "created": "2026-11-23T03:16:35.090677"
+    }
+  ],
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Meeting for Lighting of the Belen",
+      "body": "Meeting for Lighting of the Belen 2026, Room 304 Nov 23@ 2pm",
+      "author": "kei",
+      "author_role": "instructor",
+      "created": "2026-11-23T03:19:17.214344"
+    }
+  ],
+  "evaluations": [],
+  "photo_fingerprints": []
+}
